@@ -11,17 +11,17 @@ sass:
   sass_dir: ./
   style: compressed
 
-theme: jekyll-theme-primer
+theme: default-haikalfikri-cdn-theme
 
 plugins:
-  - jekyll-seo-tag
+  - cdn-seo-tag
 
-title: "👋 Hello, GitHub"
-description: "@natfriedman"
+title: "👋 Haikal Fikri CDN Web Page"
+description: "Default Web Page CDN Server"
 
 twitter:
-  username: natfriedman
+  username: haikalfiikrii
 
 author:
-  name: Nat Friedman
-  twitter: natfriedman
+  name: Haikal Fikri
+  twitter: haikalfiikrii
